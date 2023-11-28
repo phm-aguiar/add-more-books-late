@@ -1,26 +1,3 @@
-## Free Livros
-
-Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível.
-
-O Free Livros disponibiliza conteúdo de dominio publico e
-propriedade intelectual de forma totalmente gratuita, por acreditar que o
-conhecimento e a educação devem ser acessíveis e livres a toda e qualquer
-pessoa.
-
-### - Como contribuir?
-
-Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar tudo de como contribuir.
-
-### Consciência social
-
-<strong>Se você tem meios financeiros para comprar o livro, pedimos para fazê-lo, comprar em qualquer site de sua escolha ajuda aqueles que escreveram a produzir mais conteúdo de qualidade.</strong>
-
-### Índice
-
-- [Livros](#Livros)
-- [ARMAZEM DE LIVROS](https://github.com/free-educa/books/tree/main/books)
-
-## Desfrute do nosso acervo de livros
 
 ```markdown
 --- Algoritmos:
